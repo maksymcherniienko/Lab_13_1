@@ -9,10 +9,9 @@ using namespace nsVar;
 using namespace nsDod;
 using namespace Microsoft::VisualStudio::CppUnitTestFramework;
 
-TEST_CLASS(DodFunctionTest)
-{
+TEST_CLASS(DodFunctionTest) {
 public:
-
+    
     TEST_METHOD(TestDodFunction)
     {
 
